@@ -19,5 +19,8 @@
 #### 6.更新
  - 2020-07-21 : 打包JSDK
 
+#### 代码原文
+代码 : [JSDK-demo](https://github.com/Liangxiaowu/JSDK-demo)
+原文支持 : [使用webpack轻易简单打包JSDK](http://blog.liangxiaowu.com/#/detail/25)
 #### 总结
 关于import和export参考 : [ES6 模块](https://www.runoob.com/w3cnote/es6-module.html)
